@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Guid": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}
